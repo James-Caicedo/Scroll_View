@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scroll_View</string>
+    <string name="deseo_ser_contactado_por">Deseo ser contactado por:</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="numero_de_contacto">Numero de contacto</string>
+    <string name="acepto_terminos_y_condiciones">Acepto terminos y condiciones</string>
+    <string name="deseo_recibir_alertas_de_esta_paguina">Deseo recibir alertas de esta paguina</string>
+    <string name="registrarme">REGISTRARME</string>
+    <string name="escoge_tu_avatar">ESCOGE TU AVATAR</string>
+    <string name="numero_de_telefono">Numero de Telefono</string>
+    <string name="fecha_de_nacimiento">Fecha de Nacimiento</string>
+    <string name="confirme_su_contrase_a">Confirme su contraseña</string>
+    <string name="ingrese_su_contrase_a">Ingrese su Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="formulario">FORMULARIO</string>
+    <string name="scroll_view">Scroll View</string>
+</resources>
